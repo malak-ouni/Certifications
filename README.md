@@ -30,19 +30,19 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="certificates/ieee-membership.png" alt="IEEE Student Membership certificate"><br>
+      <img src="ieee-membership.png" alt="IEEE Student Membership certificate"><br>
       <b>IEEE Student Membership</b><br>
       <sub>Good standing through December 2026</sub>
     </td>
     <td align="center" width="50%">
-      <img src="certificates/ieee-cs-membership.png" alt="IEEE Computer Society Membership certificate"><br>
+      <img src="ieee-cs-membership.png" alt="IEEE Computer Society Membership certificate"><br>
       <b>IEEE Computer Society</b><br>
       <sub>2026 Student Membership</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="certificates/ieee-wie-membership.png" alt="IEEE Women in Engineering Membership certificate"><br>
+      <img src="ieee-wie-membership.png" alt="IEEE Women in Engineering Membership certificate"><br>
       <b>IEEE Women in Engineering</b><br>
       <sub>2026 Student Membership</sub>
     </td>
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="certificates/ieee-volunteering-treasurer.png" alt="IEEE Volunteering certificate, Treasurer" width="600">
+<img src="ieee-volunteering-treasurer.png" alt="IEEE Volunteering certificate, Treasurer" width="600">
 
 **Treasurer**, IEEE Student Branch, Higher Institute of Applied Science and Technology of Sousse
 <br><sub>March 2026 – January 2027</sub>
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="certificates/github-workshop-participation.png" alt="Certificate of participation, GitHub workshop" width="600">
+<img src="github-workshop-participation.png" alt="Certificate of participation, GitHub workshop" width="600">
 
 **"Manage your projects and collaborate like a Pro!"** (GitHub)
 <br>Organized by IEEE SIGHT ISSATSO Student Branch · October 2, 2026 · Google Meet
